@@ -9,3 +9,13 @@ Technology Stack :
 Python
 OpenCV
 Mediapipe.
+
+
+![Picture3](https://github.com/user-attachments/assets/3fd5d5c6-a428-45ec-b306-3a8ef3484364)
+
+![Picture5](https://github.com/user-attachments/assets/591593f7-bfd8-436d-b99d-8f8825336df1)
+
+Example output :
+
+
+![oinp2](https://github.com/user-attachments/assets/5fb18997-8dde-430a-be44-a19f85a23845)
